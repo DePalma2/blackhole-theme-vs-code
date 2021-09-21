@@ -1,0 +1,32 @@
+{
+    "name": "bhole-theme",
+    "displayName": "BlackHole Theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "icon": "icons/icon.png",
+    "repository": {
+        "url":"https://github.com/DePalma2/blackhole-theme-vs-code.git",
+        "type": "git"
+    },
+    "author": {
+        "name": "Lucas De Palma",
+        "email": "lucasdepalma2002@gmail.com",
+        "url": "https://www.linkedin.com/in/lucasdepalma/"
+    },
+    "publisher": "bhole-theme",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Extension BlackHole Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Extension DePulpo Theme-color-theme.json"
+            }
+        ]
+    }
+}
