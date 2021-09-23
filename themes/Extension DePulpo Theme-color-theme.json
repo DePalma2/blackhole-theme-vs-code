@@ -2,7 +2,7 @@
 	"name": "Extension DePulpo Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#272838",
+		"editor.background": "#27283859",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#272838",
 		"sideBarTitle.foreground": "#bbbbbb"
@@ -100,7 +100,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#4cc9f0"
+				"foreground": "#ff00d4"
 			}
 		},
 		{
@@ -135,7 +135,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#4cc9f0"
+				"foreground": "#0ad8b6"
 			}
 		},
 		{
@@ -150,7 +150,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#eee"
+				"foreground": "#33c9ee"
 			}
 		},
 		{
@@ -189,7 +189,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#eee"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -239,7 +239,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#eee"
+				"foreground": "#15f3b0"
 			}
 		},
 		{
