@@ -16,7 +16,7 @@ These are some examples of how the theme can be seen in different languages
 
 ### You can visit our page to find out about new news and updates (the page is still in the process of creation)
 
-[https://blackholetheme.netlify.app/]
+[Website](https://blackholetheme.netlify.app/)
 
 
 #### I hope you enjoy my extension!
