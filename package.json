@@ -2,13 +2,13 @@
     "name": "depulpo-theme",
     "displayName": "BlackHole Theme",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.60.0"
     },
     "icon": "icons/icon.png",
     "repository": {
-        "url":"https://github.com/DePalma2/blackhole-theme-vs-code.git",
+        "url": "https://github.com/DePalma2/blackhole-theme-vs-code.git",
         "type": "git"
     },
     "author": {
